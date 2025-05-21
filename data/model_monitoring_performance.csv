@@ -1,0 +1,4 @@
+timestamp,correct,prediction,actual,rolling_accuracy
+2025-05-12 14:30:40.610337,True,Approved,Approved,1.0
+2025-05-12 14:30:40.650218,False,Approved,Needs Review,0.5
+2025-05-12 14:30:40.689347,False,Approved,Rejected,0.3333333333333333
